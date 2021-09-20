@@ -1,4 +1,4 @@
-# My Portfolia
+# My Portfolio
 
 Hey! Welcome to my Portfolio, which I learned to build  with the help of Tanay pratap. 
 
